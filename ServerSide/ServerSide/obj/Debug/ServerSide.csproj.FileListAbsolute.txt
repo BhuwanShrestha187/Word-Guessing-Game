@@ -1,0 +1,7 @@
+D:\Conestoga College\3rd Semester\Windows Programming\Assignments\5. Assignment #5\I Dont iT\ServerSide\ServerSide\bin\Debug\ServerSide.exe.config
+D:\Conestoga College\3rd Semester\Windows Programming\Assignments\5. Assignment #5\I Dont iT\ServerSide\ServerSide\bin\Debug\ServerSide.exe
+D:\Conestoga College\3rd Semester\Windows Programming\Assignments\5. Assignment #5\I Dont iT\ServerSide\ServerSide\bin\Debug\ServerSide.pdb
+D:\Conestoga College\3rd Semester\Windows Programming\Assignments\5. Assignment #5\I Dont iT\ServerSide\ServerSide\obj\Debug\ServerSide.csproj.AssemblyReference.cache
+D:\Conestoga College\3rd Semester\Windows Programming\Assignments\5. Assignment #5\I Dont iT\ServerSide\ServerSide\obj\Debug\ServerSide.csproj.CoreCompileInputs.cache
+D:\Conestoga College\3rd Semester\Windows Programming\Assignments\5. Assignment #5\I Dont iT\ServerSide\ServerSide\obj\Debug\ServerSide.exe
+D:\Conestoga College\3rd Semester\Windows Programming\Assignments\5. Assignment #5\I Dont iT\ServerSide\ServerSide\obj\Debug\ServerSide.pdb

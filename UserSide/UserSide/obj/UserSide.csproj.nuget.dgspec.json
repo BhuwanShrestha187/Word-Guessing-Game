@@ -1,0 +1,75 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Conestoga College\\3rd Semester\\Windows Programming\\Assignments\\5. Assignment #5\\1. This is the final\\UserSide\\UserSide\\UserSide.csproj": {}
+  },
+  "projects": {
+    "D:\\Conestoga College\\3rd Semester\\Windows Programming\\Assignments\\5. Assignment #5\\1. This is the final\\UserSide\\UserSide\\UserSide.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Conestoga College\\3rd Semester\\Windows Programming\\Assignments\\5. Assignment #5\\1. This is the final\\UserSide\\UserSide\\UserSide.csproj",
+        "projectName": "UserSide",
+        "projectPath": "D:\\Conestoga College\\3rd Semester\\Windows Programming\\Assignments\\5. Assignment #5\\1. This is the final\\UserSide\\UserSide\\UserSide.csproj",
+        "packagesPath": "C:\\Users\\bhims\\.nuget\\packages\\",
+        "outputPath": "D:\\Conestoga College\\3rd Semester\\Windows Programming\\Assignments\\5. Assignment #5\\1. This is the final\\UserSide\\UserSide\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\bhims\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
